@@ -1,6 +1,10 @@
-## React Native Tip Calulator
+# React Native Tip Calulator
 
-# Clone Project
+## Steps
+
+### Clone Project
+https://github.com/Missybur/React-Native-Tip-Calculator.git
+### cd into project
 ### Run:
 npm install
 react-native run-ios
