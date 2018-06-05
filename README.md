@@ -6,5 +6,5 @@
 https://github.com/Missybur/React-Native-Tip-Calculator.git
 ### cd into project
 ### Run:
-npm install
-react-native run-ios
+##### npm install
+##### react-native run-ios
